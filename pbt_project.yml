@@ -1,0 +1,58 @@
+name: ali.quitzon
+description: Multi-tiered
+version: 0.54.477
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: aliquitzon
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:29:48'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:29:48'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:29:48.084172Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1865579999'
+  createdAt: '2025-09-19T23:29:48.084172Z'
+  type: plibMaven
+projectDependencies:
+  '167':
+    projectUID: 167
+    projectName: bret.baumbach
+    repositoryPath: gitUri=http://gitserver:3000/dev_AijPRKRi_team_285/dev_AijPRKRi_project_167.git&subPath=
+    version: bret.baumbach/6.3.7.752
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:29:47'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
